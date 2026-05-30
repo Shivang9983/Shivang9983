@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Shivang Kumar
 
-<!--
-**Shivang9983/Shivang9983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | JavaScript Learner | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently Learning JavaScript
+- 💻 Full Stack Development
+- 🤖 Interested in AI
+- 📫 Email: shivangkumar295@gmail.com
+
+---
+
+## 🌐 Connect
+
+LinkedIn:
+www.linkedin.com/in/shivang-kumar-13-3-
+
+---
+
+## 💻 Tech Stack
+
+HTML
+CSS
+JavaScript
+Git
+GitHub
