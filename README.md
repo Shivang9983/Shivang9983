@@ -86,11 +86,13 @@ Full Stack Developer • JavaScript Developer • AI Enthusiast
 
 # 🌱 Currently Learning
 
-- JavaScript (Advanced)
-- React.js
-- Node.js
-- MongoDB
+- Advanced JavaScript Concepts
+- System Design Basics
 - AI Development
+- TypeScript
+- Next.js
+- Docker
+
 
 ---
 
