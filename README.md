@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Butcher;Full+Stack+Developer;AI+Enthusiast;Data+Analytics+Learner)](https://git.io/typing-svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 <h1 align="center">🗡️ Shivang Kumar</h1>
 
