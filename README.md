@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./arcade-room.gif" width="100%">
+</p>
+
 <h1 align="center">🗡️ Shivang Kumar</h1>
 
 <h3 align="center">
