@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1f1f&height=220&section=header&text=Shivang%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Butcher;Full+Stack+Developer;AI+Enthusiast;Data+Analytics+Learner)](https://git.io/typing-svg)
 
 <h1 align="center">🗡️ Shivang Kumar</h1>
 
