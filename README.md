@@ -116,14 +116,6 @@ Full Stack Developer • JavaScript Developer • AI Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shivang9983&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 📧 Email: shivangkumar295@gmail.com
