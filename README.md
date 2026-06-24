@@ -2,7 +2,7 @@
   <img src="./arcade-room.gif" width="100%">
 </p>
 
-<h1 align="center">👋 My Name is "Shivang Kumar Singh"</h1>
+<h1 align="center">👋🏻 Hi, I'm "Shivang Kumar"</h1>
 
 <h3 align="center">
 Full Stack Developer • JavaScript Developer • AI Enthusiast
